@@ -1,5 +1,5 @@
 # Glosario
-## Palabras que desconocia hasta e momento que las escribi aquí xd
+## Palabras que desconocia hasta el momento que las escribi aquí xd
 
 ### Parte 1 (dia 15)
 * snake case = (Es un tipo de escritura dónde cuando tenemos un espacio es remplazado por algun caracter)
