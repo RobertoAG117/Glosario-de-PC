@@ -9,11 +9,11 @@
 * git = (en este caso lo vamos a emplear para realizar clones de repositorios o codigo que lleguemos a necesitar) (controlador de versiones)
 ### Parte 2 (dia 16)
 * programacaion = 
-/n nivel 1 =
-/n nivel 2 =
+* nivel 1 =
+* nivel 2 =
 * desfragmentación = 
 * abstracción = 
 * algoritmos = 
-cualitativos =
-cuantitativos = 
+* cualitativos =
+* cuantitativos = 
 * patrones = 
