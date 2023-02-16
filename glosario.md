@@ -7,7 +7,7 @@
 * docker = (contenedor para facilitar tener codigo o transportarlo con facilidad)
 * framework = (es el marco de trabajo, prácticas, conceptos y/o citerios ya previamente estandarizados que se deben seguir)
 * git = (en este caso lo vamos a emplear para realizar clones de repositorios o codigo que lleguemos a necesitar) (controlador de versiones)
-###Parte 2 (dia 16)
+### Parte 2 (dia 16)
 * programacaion = 
 nivel 1 =
 nivel 2 =
