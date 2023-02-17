@@ -8,7 +8,7 @@
 * framework = (es el marco de trabajo, prácticas, conceptos y/o citerios ya previamente estandarizados que se deben seguir)
 * git = (en este caso lo vamos a emplear para realizar clones de repositorios o codigo que lleguemos a necesitar) (controlador de versiones)
 ### Parte 2 (dia 16)
-* programacaion = 
+* programacion = 
 * nivel 1 =
 * nivel 2 =
 * desfragmentación = 
@@ -17,3 +17,17 @@
 * cualitativos =
 * cuantitativos = 
 * patrones = 
+### Parte 3 (dia 17)
+* sintaxis = 
+* for
+* while
+* int
+* bug
+* debug
+*  numericas = (solo numeros son validos)
+* alfanumercas = (numeros y letras pero ambos son validos)
+* logicas = (verdadero o falso)
+* de trabajo = (contiene operaciones)(ejemplo usar suma. resta, multi, etc)
+* acumulativas = (contiene datos de algun tipo que puedes ir cambiando) (como el dolar)
+* contadores = (permiten controlar ciclos, como cuantas veces se imprime un cartel)
+* 
