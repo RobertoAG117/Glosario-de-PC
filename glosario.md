@@ -30,4 +30,10 @@
 * de trabajo = (contiene operaciones)(ejemplo usar suma. resta, multi, etc)
 * acumulativas = (contiene datos de algun tipo que puedes ir cambiando) (como el dolar)
 * contadores = (permiten controlar ciclos, como cuantas veces se imprime un cartel)
+* para poner un aponteca se pone (tringulo o **)
+* multi y divi son con (* y /)
+* se resuleve primero el parentesis
+* division de piso es con // (no toma en cuenta el residuo)
+* para tener en cuenta el residuo es con el // %
 * 
+
