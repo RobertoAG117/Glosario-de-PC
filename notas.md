@@ -22,4 +22,9 @@ tipos de variables
 * de trabajo (contiene operaciones)(ejemplo usar suma. resta, multi, etc)
 * acumulativas (contiene datos de algun tipo que puedes ir cambiando) (como el dolar)
 * contadores (permiten controlar ciclos, como cuantas veces se imprime un cartel)
-* 
+
+### Notas del días 24
+Condicionales
+* Simple: Si --> entonces if *Si se pasa algo, entonces haces algo
+* Compuesta Si --> entonces en caso contrario if else Si pasa algo entonces haces algo Pero si no pasa haces otra cosa
+* Añadida Si --> entonces Si --> entonces de lo contrario if else elif
