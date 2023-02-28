@@ -28,5 +28,26 @@ Condicionales
 * Simple: Si --> entonces if *Si se pasa algo, entonces haces algo
 * Compuesta Si --> entonces en caso contrario if else Si pasa algo entonces haces algo Pero si no pasa haces otra cosa
 * Añadida Si --> entonces Si --> entonces de lo contrario if else elif
+
 ### Notas del día 28 
 tenemos diversas formas de gcer un codigo por lo que debemos fragmentar el problemas para poderlo resolver
+
+Ciclos (bucles o iteradores)
+for (para)
+  for se usa para el  número de vces que se va a repetir el código 
+
+while (hacer)
+  se usa cuando no sabemos cuantas veces se va a repetir el código y es necesario que pase alguna accion (presionar tecla o condicion) para que se detenga
+  (primero valida y luego hace algo)
+  
+do while (hacer mientras)
+  este hace algo al inicio (por ejemplo imrimero algo en pantalla mientras no ocurra otra cosa)
+  (este primero hace alfo y luego valida)
+  
+
+  
+
+
+
+
+
