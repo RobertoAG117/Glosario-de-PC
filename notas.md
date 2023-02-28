@@ -43,7 +43,7 @@ while (hacer)
 do while (hacer mientras)
   este hace algo al inicio (por ejemplo imrimero algo en pantalla mientras no ocurra otra cosa)
   (este primero hace alfo y luego valida)
-  
+   
 
   
 
