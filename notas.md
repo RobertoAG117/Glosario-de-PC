@@ -28,3 +28,5 @@ Condicionales
 * Simple: Si --> entonces if *Si se pasa algo, entonces haces algo
 * Compuesta Si --> entonces en caso contrario if else Si pasa algo entonces haces algo Pero si no pasa haces otra cosa
 * Añadida Si --> entonces Si --> entonces de lo contrario if else elif
+### Notas del día 28 
+tenemos diversas formas de gcer un codigo por lo que debemos fragmentar el problemas para poderlo resolver
