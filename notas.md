@@ -7,11 +7,11 @@ par tener un texto en negritas es con ###
 para tener un lista es necesario tener un * commit por ejemplo
 
 
-### Notas del dia 16
+### Notas del dia 16/02
 si nos piden datos por consola el usuario debe proporcionar los datos
 si nos piden datos asigandos tenemos que proporcionarlos o meterlos nosotros
 
-### Notas del dia 17
+### Notas del dia 17/02
 tema principal a tratar (variables)
 
 veremos programación estructurada(un paso a la vez)
@@ -23,16 +23,16 @@ tipos de variables
 * acumulativas (contiene datos de algun tipo que puedes ir cambiando) (como el dolar)
 * contadores (permiten controlar ciclos, como cuantas veces se imprime un cartel)
 
-### Notas del días 24
+### Notas del días 24/02
 Condicionales
 * Simple: Si --> entonces if *Si se pasa algo, entonces haces algo
 * Compuesta Si --> entonces en caso contrario if else Si pasa algo entonces haces algo Pero si no pasa haces otra cosa
 * Añadida Si --> entonces Si --> entonces de lo contrario if else elif
 
-### Notas del día 28 
+### Notas del día 28/02
 tenemos diversas formas de gcer un codigo por lo que debemos fragmentar el problemas para poderlo resolver
 
-Ciclos (bucles o iteradores)
+Ciclos (búcles o iteradores)
 for (para)
   for se usa para el  número de vces que se va a repetir el código 
 
@@ -44,6 +44,9 @@ do while (hacer mientras)
   este hace algo al inicio (por ejemplo imrimero algo en pantalla mientras no ocurra otra cosa)
   (este primero hace alfo y luego valida)
    
+### notas del día 01/03
+
+
 
   
 
