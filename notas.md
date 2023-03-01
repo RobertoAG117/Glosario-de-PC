@@ -45,6 +45,22 @@ do while (hacer mientras)
   (este primero hace alfo y luego valida)
    
 ### notas del día 01/03
+ciclo for(para)
+tenemos 2 ipos de variables 
+Locales y Globales
+
+las variables locales son para un momentos en especifico (como las variables contador)
+(estas solo se declaran cuando se van a utilizar)
+* las nombraremos por convencion i y así sucesivamente
+* debemos especificar hasta donde llega, como aumenta y cuando se detiene
+se representa con un circulo el cual tiene primero el nombre de la variable, abajo se divide en 3 el cual es el inicio, cual es el valor que tiene actualmente y 
+hasta cual quiero llegar
+
+
+
+las variables globales son para todo el programa 
+estas son las variables que tendremos durante todo el programa, estas no son utiles en todo momento 
+
 
 
 
