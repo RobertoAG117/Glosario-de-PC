@@ -61,9 +61,12 @@ hasta cual quiero llegar
 las variables globales son para todo el programa 
 estas son las variables que tendremos durante todo el programa, estas no son utiles en todo momento 
 
+### Notas del dia 2/03
+hacer numeros aleatorios es con random
 
-
-
+TAREA
+modificar el programa del promedio para sacar diversos promedios
+con las condicionales y el while
   
 
 
