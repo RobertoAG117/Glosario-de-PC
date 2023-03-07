@@ -68,7 +68,9 @@ TAREA
 modificar el programa del promedio para sacar diversos promedios
 con las condicionales y el while
   
-
+### Checar el repositorio de emiliano y vaz 
+https://github.com/emiliano080591/distribuidos-escom-ukranio
+https://github.com/vazpeitiah/distribuidos
 
 
 
