@@ -73,5 +73,17 @@ https://github.com/emiliano080591/distribuidos-escom-ukranio
 https://github.com/vazpeitiah/distribuidos
 
 
+### Día 15/03
+empezamos con la www
+
+existen muchos tipos de diseñadores web como los que hacen encuestas o los que desarrolan las mismas páginas 
+empezaremos por html para la estructura de las pagnias web
+
+front end (parte visual)
+back end (estructura en código de la página)
+full stack (se emcarga para realizar ambos trabajos)
+framework (herramienta que potencializa el programa)
+
+
 
 
