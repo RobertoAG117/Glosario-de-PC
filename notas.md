@@ -86,4 +86,14 @@ framework (herramienta que potencializa el programa)
 
 
 
+setup (herramientas)
+el boceto pdee ser en una hoja o paint (wireframe)
+dibujo se le llama mockup (es como una maqueta)
+figma para la creación de maquetas / adobe xd
+
+IDE (cuaderno de código) visual code
+
+
+
+
 
