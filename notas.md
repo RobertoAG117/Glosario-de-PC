@@ -95,5 +95,19 @@ IDE (cuaderno de código) visual code
 
 
 
+### dia 21/03
+existen diferentes tipos de paginas
+por ejemplo amazon es jerarquica 
+
+existen paginas secuanciales 
+como a pag de capacitate de carlos slim
+ya que necesitas llevar un paso para dar el siguiente 
+
+estructura en red
+(wikipedia) ya que puedes brincar de un lado a otro 
 
 
+---
+metadatos (datos de la pag)
+
+windows + . y salen los emojis
