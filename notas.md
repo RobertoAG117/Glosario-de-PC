@@ -111,3 +111,26 @@ estructura en red
 metadatos (datos de la pag)
 
 windows + . y salen los emojis
+
+
+### dia 22 de marzo
+whilefrom
+herramienta figma para hacer hilefrom y diseño
+mokeup (diseño previo a hacer el desarrollo)
+
+existen diferentes tipos de formularios 
+imput de tipo radio. select, 
+place holder (ejemplo de rellenado)
+tipo texto para que el usuario escriba
+
+action es a donde se enviar
+method es a como se va a enviar
+
+name es el nombre del valor
+value es para prellenar algo
+placeholder es para dar un ejemplo sobre el cuadro a escribir algo
+
+
+
+
+
