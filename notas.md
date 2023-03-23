@@ -132,5 +132,9 @@ placeholder es para dar un ejemplo sobre el cuadro a escribir algo
 
 
 
+### dia 23/03
+etiqueta fieldset (hace un marquito para el texto que tengamos suelto)
+la pag para hbailitar el envio de formularios es formspree
+
 
 
