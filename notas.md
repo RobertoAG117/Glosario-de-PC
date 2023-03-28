@@ -148,3 +148,4 @@ color: rgb(4, 0, 255);
     font-weight: bold;
 tamaños en porcentaje *
 
+tenemos que hacer un logo con algun ia 
