@@ -136,5 +136,14 @@ placeholder es para dar un ejemplo sobre el cuadro a escribir algo
 etiqueta fieldset (hace un marquito para el texto que tengamos suelto)
 la pag para hbailitar el envio de formularios es formspree
 
-
+### dia 28/03/23
+etiquetas para estilos de css
+color: rgb(4, 0, 255);
+    background-color: aliceblue;
+    font-size: 200px;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    text-shadow: black;
+    font-weight: bold;
 
