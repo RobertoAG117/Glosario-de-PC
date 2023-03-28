@@ -146,4 +146,5 @@ color: rgb(4, 0, 255);
     word-spacing: 10px;
     text-shadow: black;
     font-weight: bold;
+tamaños en porcentaje *
 
