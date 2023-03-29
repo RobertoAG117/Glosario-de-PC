@@ -149,3 +149,13 @@ color: rgb(4, 0, 255);
 tamaños en porcentaje *
 
 tenemos que hacer un logo con algun ia 
+
+### Día 29
+display srve para moder de lado las diversas etiquetas para css
+display: flex; sirve para enviar de lado (se necesitan los parametros de alineaci+´n vertical y horizontal respectivamente)
+se necesita otra línea para que funcione correctamente
+justify-content: (para horizontal)
+align items (para la alinación vertical)
+
+
+
