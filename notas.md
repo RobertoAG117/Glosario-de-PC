@@ -164,5 +164,4 @@ vh    height
 auto  overflow
 
 
-
-
+<span> sirve para alinear texto
