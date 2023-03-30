@@ -157,5 +157,12 @@ se necesita otra línea para que funcione correctamente
 justify-content: (para horizontal)
 align items (para la alinación vertical)
 
+### Día 30/03
+veremos las fucionas para poder darle formato a las dimensiones respectivamente
+%     width 
+vh    height
+auto  overflow
+
+
 
 
