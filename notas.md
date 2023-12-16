@@ -165,3 +165,10 @@ auto  overflow
 
 
 <span> sirve para alinear texto
+
+Retomare las notas de github por lo que estaré al pendiente y subire actualizaciones recurrentemente 
+Día 16/12/2023
+Se puede personalizar el perfil de github con forme a un html jeje 
+los botones los extraje de diversas páginas
+
+
